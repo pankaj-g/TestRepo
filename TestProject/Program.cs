@@ -6,10 +6,10 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             Console.WriteLine("This is a new branch");
-            int a = 10;
-            Console.WriteLine(a);
+            Console.WriteLine("Hello");
+            int b = 4;int c = 5;
+            Console.WriteLine("Multiply :" + (c*b));
             
         }
     }
